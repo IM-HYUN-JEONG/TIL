@@ -12,9 +12,9 @@ Today_I_Learn
 5. 느낀점
 6. 자기 선언
 
-##분류
-###Javascript
+## 분류
+### Javascript
 
-###React
+### React
 
-###Project
+### Project
