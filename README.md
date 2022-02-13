@@ -1,7 +1,7 @@
 # Today_I_Learn
 Today_I_Learn
 
-##작성방법
+## 작성방법
 [Git syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), 파일 확장자는 md.
 
 1. 오늘 한 것
